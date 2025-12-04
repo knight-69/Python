@@ -1,0 +1,43 @@
+#my code 
+e = set()
+
+s1 = int(input("Enter Your Number : "))
+e.add(s1)
+s2 = int(input("Enter Your Number : "))
+e.add(s2)
+s3 = int(input("Enter Your Number : "))
+e.add(s3)
+s4 = int(input("Enter Your Number : "))
+e.add(s4)
+s5 = int(input("Enter Your Number : "))
+e.add(s5)
+s6 = int(input("Enter Your Number : "))
+e.add(s6)
+s7 = int(input("Enter Your Number : "))
+e.add(s7)
+s8 = int(input("Enter Your Number : "))
+e.add(s8)
+print(e)
+
+
+#harry code
+
+s = set()
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+n= input("Enter Number :")
+s.add(int(n))
+
+print(s)
