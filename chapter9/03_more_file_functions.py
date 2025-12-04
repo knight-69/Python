@@ -25,4 +25,13 @@ print(line4,type(line4))
 # line6 = f.readline()
 # print(line6 ==)
 #The above line will give the output true because the is nothing in that file.
+
+
+# To do this exact same this in while loop we can also do this
+
+# line=f.readline()
+# while(line !=""):
+#     print(line)
+#     line = f.readline()
+
 f.close()
