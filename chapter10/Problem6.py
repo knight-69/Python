@@ -1,3 +1,5 @@
+# yes we can change the self in this code an nothing will happen unless we aslo dont change self. to the word we have use as a input.
+
 from random import randint
 
 class Train:
