@@ -1,7 +1,8 @@
 class Employee:
     company ="ITC"
+    name ="Default name"
     def show(self):
-        print(f"the name is {self.mame} and the salary is {self.salary}")
+        print(f"the name is {self.name} and the company is {self.company}")
 
 class Coder:
     language ="Python"
@@ -12,7 +13,7 @@ class Coder:
 class Programmer(Employee,Coder):
     company ="ITC Infotech"
     def ShowLanguage(self):
-        print(f"The name is {self.name} and he is a good with {self.language} language")
+        print(f"The name is {self.company} and he is a good with {self.language} language")
     
 a =Employee()
 b=Programmer()

@@ -14,7 +14,7 @@ class Employee:
 class Programmer(Employee):
     company ="ITC Infotech"
     def ShowLanguage(self):
-        print(f"The name is {self.name} and he is a good with {self.language} language")
+        print(f"The name is {self.company} and he is a good with {self.language} language")
     
 a =Employee()
 b=Programmer()
