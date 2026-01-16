@@ -16,7 +16,7 @@ class Programmer(Employee):
     def ShowLanguage(self):
         print(f"The name is {self.name} and he is a good with {self.language} language")
     
-a =Employee
-b=Programmer
+a =Employee()
+b=Programmer()
 
 print(a.company,b.company)
