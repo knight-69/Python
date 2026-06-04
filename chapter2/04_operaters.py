@@ -43,3 +43,4 @@ print("True and False is", False and False)
 # Not operator
 print(not(False))
 print(not(True))
+
