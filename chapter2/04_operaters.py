@@ -24,6 +24,7 @@ d = 5<4
 # d = 5!=4
 print(d)
 
+
 #logical Operators
 
 e = True or False
