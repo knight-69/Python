@@ -1,5 +1,4 @@
-# a = "Harry is a good boy
-# but not a bad boy"
+# a = "Harry is a good boybut not a bad boy"
 
 # print(a)
 
