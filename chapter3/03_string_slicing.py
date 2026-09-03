@@ -5,6 +5,7 @@ a[1:7:3]
 
 
 
+
 # the answer for the will be bf by using the same formula as above
 b = "abcdefghijklmnopqrstuvwxyz"
 b[1:9:4]
